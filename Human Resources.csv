@@ -1,0 +1,105 @@
+Country,Year,Psychiatrists,Nurses,Social_workers,Psychologist,2016_rate,Developed
+Afghanistan,2016,0.231,0.098,,0.296,6.4,Underdeveloped
+Albania,2016,1.471,6.876,1.06,1.231,5.6,Developed
+Angola,2016,0.057,0.66,0.022,0.179,8.9,Underdeveloped
+Antigua and Barbuda,2016,1.001,7.005,4.003,,0.5,Developed
+Argentina,2016,21.705,,,222.572,9.1,Developed
+Armenia,2016,3.84,11.245,0.274,0.788,5.7,Developed
+Azerbaijan,2016,3.452,6.717,0.114,1.165,2.6,Developed
+Bangladesh,2016,0.13,0.873,,0.124,6.1,Underdeveloped
+Belarus,2016,13.504,,,5.514,21.4,Developed
+Belize,2016,1.392,3.34,,1.113,5.9,Developed
+Bhutan,2016,0.508,0.127,,,11.6,Underdeveloped
+Bolivia (Plurinational State of),2016,1.128,,,,12.9,Developed
+Brazil,2016,3.165,34.948,6.608,12.368,6.1,Developed
+Brunei Darussalam,2016,1.197,15.088,0.239,5.029,4.5,Developed
+Bulgaria,2016,7.203,17.736,0.78,1.867,7.9,Developed
+Burkina Faso,2016,0.039,0.635,0.011,0.022,14.8,Underdeveloped
+Cambodia,2016,0.387,0.277,,7.089,5.9,Underdeveloped
+Chad,2016,0.007,0.021,0.007,,15.5,Underdeveloped
+Chile,2016,6.97,1.88,,,9.7,Developed
+Colombia,2016,1.835,0,,,7,Developed
+Congo,2016,0.08,0.5,0.02,0.02,9.3,Underdeveloped
+Costa Rica,2016,3.931,5.699,76.957,142.018,7.5,Developed
+Côte d'Ivoire,2016,0.13,0.381,,,23,Developed
+Croatia,2016,11.095,41.856,1.298,4.367,11.5,Developed
+Cuba,2016,9.056,8.899,1.335,31.061,10.1,Developed
+Dominican Republic,2016,2.28,,0.294,7.598,10.5,Developed
+Ecuador,2016,0.458,0.056,0.019,7.662,7.2,Developed
+Egypt,2016,1.6,4.799,0.448,0.256,4.4,Developed
+El Salvador,2016,0.887,,0.301,2.075,13.5,Developed
+Eritrea,2016,,2.166,0.041,0.083,13.8,Underdeveloped
+Estonia,2016,16.188,23.484,0.532,6.46,14.4,Developed
+Fiji,2016,0.224,1.457,0.56,0.56,5.5,Developed
+Gabon,2016,0.259,0.518,0.104,0.777,9.6,Developed
+Gambia,2016,0.101,0.303,0.101,,10,Underdeveloped
+Georgia,2016,6.706,5.922,,2.328,6.7,Developed
+Ghana,2016,0.058,7.733,,0.065,8.7,Developed
+Greece,2016,5.803,12.748,3.459,8.781,3.8,Developed
+Grenada,2016,1.872,0.936,2.808,,1.7,Developed
+Guatemala,2016,0.492,1.071,0.006,46.147,2.9,Developed
+Guinea,2016,0.025,,0.008,0.008,10.5,Underdeveloped
+Guinea-Bissau,2016,,0.791,0.169,0.113,7.4,Underdeveloped
+Guyana,2016,0.911,,,0,30.2,Developed
+Haiti,2016,0.075,0.233,0.373,0.56,12.2,Underdeveloped
+Hungary,2016,11.079,33.739,,2.484,13.6,Developed
+India,2016,0.292,0.796,0.065,0.069,16.5,Developed
+Indonesia,2016,0.31,2.518,,0.175,3.7,Developed
+Israel,2016,9.87,,,88.089,5.2,Developed
+Japan,2016,11.867,83.805,8.328,3.037,14.3,Developed
+Jordan,2016,1.125,3.297,0.218,1.266,3.7,Developed
+Kenya,2016,0.184,,,,5.6,Developed
+Kyrgyzstan,2016,1.688,7.365,,0.409,9.1,Developed
+Liberia,2016,0.044,6.401,1.4,,13.4,Underdeveloped
+Lithuania,2016,18.452,49.763,,15.86,25.7,Developed
+Madagascar,2016,0.058,0.314,0.05,0.062,6.9,Underdeveloped
+Malaysia,2016,1.048,6.838,,1.029,6.2,Developed
+Mali,2016,0.029,0.092,,0.011,8.9,Underdeveloped
+Mexico,2016,0.207,2.239,0.53,3.459,5.2,Developed
+Mongolia,2016,4.031,4.199,0.101,0.101,13.3,Developed
+Montenegro,2016,8.278,18.307,1.114,,7.9,Developed
+Morocco,2016,0.839,2.451,0.646,0.575,3.1,Developed
+Mozambique,2016,0.046,,0.018,0.389,8.4,Underdeveloped
+Myanmar,2016,0.384,0.321,0.013,,8.1,Underdeveloped
+Namibia,2016,0.371,0.907,0.206,1.443,11.5,Developed
+Nepal,2016,0.356,0.558,,0.523,9.6,Underdeveloped
+New Zealand,2016,28.54,75.132,,,11.6,Developed
+Niger,2016,0.014,0.126,0.028,0.019,9,Underdeveloped
+Norway,2016,48.04,,,73.522,10.1,Developed
+Panama,2016,4.031,3.452,9.221,7.331,4.4,Developed
+Peru,2016,2.948,5.995,,9.507,5.1,Developed
+Philippines,2016,0.518,,,0.885,3.7,Developed
+Poland,2016,24.176,30.916,,16.346,13.4,Developed
+Qatar,2016,2.712,9.933,0.115,1.413,5.8,Developed
+Republic of Korea,2016,5.793,13.662,8.404,1.591,20.2,Developed
+Romania,2016,5.665,18.71,0.503,1.479,8,Developed
+Rwanda,2016,0.06,1.376,0.172,0.387,11,Underdeveloped
+Saint Lucia,2016,0.564,50.788,0.564,,7.3,Developed
+Samoa,2016,1.548,1.548,1.548,,5.4,Developed
+Sao Tome and Principe,2016,0.511,4.602,0.511,3.068,3.1,Underdeveloped
+Saudi Arabia,2016,1.321,10.66,3.955,2.034,3.4,Developed
+Senegal,2016,0.2,0.267,0.067,0.02,11.8,Underdeveloped
+Seychelles,2016,2.134,8.534,,3.2,8.3,Developed
+Singapore,2016,4.191,,,,7.9,Developed
+Slovenia,2016,11.953,36.727,1.976,9.302,13.3,Developed
+South Africa,2016,1.521,,,,12.8,Developed
+South Sudan,2016,0.025,0.017,,0.261,6.1,Underdeveloped
+Suriname,2016,1.265,16.63,0.362,0.542,23.2,Developed
+Sweden,2016,20.863,50.566,,,11.7,Developed
+Syrian Arab Republic,2016,0.368,1.068,0.801,1.068,2.4,Developed
+Tajikistan,2016,1.392,1.497,,,3.3,Developed
+Thailand,2016,0.721,7.418,0.836,1.749,12.9,Developed
+Timor-Leste,2016,0.081,1.37,1.612,0.081,6.4,Underdeveloped
+Togo,2016,0.054,0.27,0.054,0.404,16.6,Underdeveloped
+Tonga,2016,2.821,16.923,,1.88,4,Developed
+Turkey,2016,1.637,150.251,1.643,2.537,7.2,Developed
+Uganda,2016,0.082,2.242,0.037,0.037,20,Underdeveloped
+Ukraine,2016,6.93,,,,18.5,Developed
+United Arab Emirates,2016,1.649,4.37,0.36,0.765,2.7,Developed
+United States of America,2016,10.542,4.283,60.338,29.864,13.7,Developed
+Uruguay,2016,14.134,,,,16.5,Developed
+Uzbekistan,2016,2.612,9.214,,0.09,7.4,Developed
+Vanuatu,2016,0.378,4.535,0.378,0.756,5.4,Developed
+Yemen,2016,0.201,0.323,0.056,0.409,9.8,Underdeveloped
+Zambia,2016,0.056,1.429,0.019,0.031,11.3,Underdeveloped
+Zimbabwe,2016,0.095,3.486,0.634,0.057,19.1,Developed
